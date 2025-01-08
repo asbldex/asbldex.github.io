@@ -6,13 +6,13 @@ h1 {
   color: rgb(240, 240, 240); font-family:monospace; text-align: center;
 }
 p,ul,ol {
-  color: rgb(220, 220, 220); font-family:arial; font-size: 18px; letter-spacing: 0.05em;
+  color: rgb(220, 220, 220); font-family:arial; font-size: larger; letter-spacing: 0.05em;
 }
 table {
   color: rgb(220, 220, 220); font-family:arial; font-size: 0.9em; letter-spacing: 0.05em;
 }
 h3 {
-  color: white; bottom:0; font-family:monospace; width: 100%; text-align: center;
+  color: white; bottom:0; font-family:monospace; width: 100%; text-align: center; font-size: 1.3em;
 }
 a {
   color: #00ff41;
